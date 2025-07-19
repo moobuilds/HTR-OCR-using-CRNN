@@ -22,3 +22,4 @@
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/Roy.png)
 
 
+isp.decodo.com:10003:sp3fmv02ha:vn1+f5Ks01spQemZu
